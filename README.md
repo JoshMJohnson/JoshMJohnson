@@ -1,8 +1,11 @@
-## Hi there 👋
+# Connect With Me
+:email: joshjohns21@gmail.com
+:telephone_receiver: (763) 600-4793
+<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn logo" width="50" height="50" /> [LinkedIn Profile](https://www.linkedin.com/in/josh-johnson/)
+
+
 
 <!--
-**JoshMJohnson/JoshMJohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
