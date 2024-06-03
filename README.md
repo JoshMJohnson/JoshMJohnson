@@ -2,7 +2,7 @@
 
 :email: joshjohns21@gmail.com <br>
 :telephone_receiver: (763) 600-4793 <br>
-<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn logo" width="10" height="10" /> [LinkedIn Profile](https://www.linkedin.com/in/josh-johnson/) <br>
+<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn logo" width="15" height="15" /> [LinkedIn Profile](https://www.linkedin.com/in/josh-johnson/) <br>
 
 
 
