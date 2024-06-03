@@ -1,8 +1,8 @@
 # Connect With Me
 
-&nbsp; :email: joshjohns21dev@gmail.com <br>
-&nbsp; :telephone_receiver: (763) 600-4793 <br>
-&nbsp;&nbsp;<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn logo" width="15" height="15" /> [LinkedIn Profile](https://www.linkedin.com/in/josh-johnson/) <br>
+:email: &nbsp; joshjohns21dev@gmail.com <br>
+:telephone_receiver: (763) 600-4793 <br>
+&nbsp;<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn logo" width="15" height="15" />&nbsp;[LinkedIn Profile](https://www.linkedin.com/in/josh-johnson/) <br>
 
 
 
