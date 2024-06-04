@@ -6,7 +6,7 @@
 
 <div align='center'>
  
-<table border='20'>
+<table border='10'>
  <tr>
     <th><b style="font-size:30px">Title</b></th>
     <th><b style="font-size:30px">Title 2</b></th>
