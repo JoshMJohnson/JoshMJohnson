@@ -6,8 +6,8 @@
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
+    <th><b style="font-size:30px">Title</b></th>
+    <th><b style="font-size:30px">Title 2</b></th>
  </tr>
  <tr>
     <td>Lorem ipsum ...</td>
