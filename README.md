@@ -1,19 +1,25 @@
 ### Connect With Me
 
-:email: &nbsp;joshjohns21dev@gmail.com :email: <br>
-:telephone_receiver: (763) 600-4793 :telephone_receiver: <br>
-&nbsp;<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn logo" width="15" height="15" />&nbsp;[LinkedIn Profile](https://www.linkedin.com/in/josh-johnson/) <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn logo" width="15" height="15" /> <br>
+ <br>
+ <br>
+ <br>
 
 <div align='center'>
  
 <table border='10'>
  <tr>
-    <th><b style="font-size:30px">Title</b></th>
+    <th><b style="font-size:30px">Connect With Me</b></th>
     <th><b style="font-size:30px">Title 2</b></th>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
+    <td>:email: &nbsp;joshjohns21dev@gmail.com :email:</td>
+    <td>:telephone_receiver: (763) 600-4793 :telephone_receiver:</td>
+ </tr>
+ <tr>
+  <td>:telephone_receiver: (763) 600-4793 :telephone_receiver:</td>
+ </tr>
+ <tr>
+  <td>&nbsp;<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn logo" width="15" height="15" />&nbsp;[LinkedIn Profile](https://www.linkedin.com/in/josh-johnson/) <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn logo" width="15" height="15" /></td>
  </tr>
 </table>
 
