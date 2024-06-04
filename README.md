@@ -19,7 +19,45 @@
  </tr>
 </table>
 
-:flying_disc:
+<table>
+ <tr>
+  <th>Language</th>
+  <th>Tools</th>
+ </tr>
+ <tr>
+  <td>Dart</td>
+  <td>Flutter Framework</td>
+ </tr>
+ <tr>
+  <td>JavaScript XML (JSX)</td>
+  <td>React Native Expo Framework</td>
+ </tr>
+ <tr>
+  <td>C#</td>
+  <td>.NET MAUI Framework</td>
+ </tr>
+ <tr>
+  <td>SQLite</td>
+ </tr>
+ <tr>
+  <td>JavaScript</td>
+ </tr>
+ <tr>
+  <td>HTML</td>
+ </tr>
+ <tr>
+  <td>CSS</td>
+ </tr>
+ <tr>
+  <td>Python</td>
+ </tr>
+ <tr>
+  <td>Java</td>
+ </tr>
+ <tr>
+  <td>C</td>
+ </tr>
+</table>
 
 </div>
 
