@@ -2,9 +2,9 @@
 
 <div align='center'>
 
-<p align='right' style="display:inline">this is an into temp data</p>
+<p style="display:inline">this is an into temp data</p>
  
-<table border='10' align='left'>
+<table border='10'>
  <tr>
     <th>Connect With Me</th>
  </tr>
