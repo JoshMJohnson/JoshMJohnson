@@ -21,7 +21,7 @@
 
 <table>
  <tr>
-  <th colspan='2' style="font-size:0.5em;">Demonstrated Skills</th>
+  <th colspan='2'>Demonstrated Skills</th>
  </tr>
  <tr>
   <th>Language</th>
