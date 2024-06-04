@@ -21,6 +21,9 @@
 
 <table>
  <tr>
+  <th colspan='2'>Demonstrated Skills</th>
+ </tr>
+ <tr>
   <th>Language</th>
   <th>Tools</th>
  </tr>
