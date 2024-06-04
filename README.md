@@ -1,4 +1,4 @@
-### Connect With Me
+### &#9; Connect With Me
 
 :email: &nbsp;joshjohns21dev@gmail.com :email: <br>
 :telephone_receiver: (763) 600-4793 :telephone_receiver: <br>
