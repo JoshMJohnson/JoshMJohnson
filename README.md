@@ -19,6 +19,10 @@
  </tr>
 </table>
 
+<image src='https://github.com/JoshMJohnson/Portfolio-Josh-Johnson/blob/main/Portfolio_Assets/project_timeline.png' />
+
+</div>
+
 <!--
 Here are some ideas to get you started:
 
