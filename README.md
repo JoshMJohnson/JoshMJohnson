@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-<p align='right'>this is an into temp data</p>
+<p align='right' style="display:inline">this is an into temp data</p>
  
 <table border='10' align='left'>
  <tr>
