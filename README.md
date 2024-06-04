@@ -19,7 +19,7 @@
  </tr>
 </table>
 
-<larger>:flying_disc:</larger>
+<sup>:flying_disc:</sup>
 
 </div>
 
