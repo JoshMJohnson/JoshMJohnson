@@ -1,8 +1,4 @@
-### Connect With Me
-
- <br>
- <br>
- <br>
+# Welcome To My GitHub Account!
 
 <div align='center'>
  
@@ -13,7 +9,6 @@
  </tr>
  <tr>
     <td>:email: &nbsp;joshjohns21dev@gmail.com :email:</td>
-    <td>:telephone_receiver: (763) 600-4793 :telephone_receiver:</td>
  </tr>
  <tr>
   <td>:telephone_receiver: (763) 600-4793 :telephone_receiver:</td>
