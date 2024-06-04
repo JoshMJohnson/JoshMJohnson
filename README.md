@@ -4,7 +4,7 @@
 :telephone_receiver: (763) 600-4793 :telephone_receiver: <br>
 &nbsp;<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn logo" width="15" height="15" />&nbsp;[LinkedIn Profile](https://www.linkedin.com/in/josh-johnson/) <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn logo" width="15" height="15" /> <br>
 
-<div align='center' border='none'>
+<div align='center' border=0>
  
 <table border="0">
  <tr>
