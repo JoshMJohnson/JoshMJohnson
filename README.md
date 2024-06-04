@@ -19,11 +19,6 @@
  </tr>
 </table>
 
-<style>
-.emoji-big-size img {font-size: 4rem;}
-</style>
-
-{: .emoji-big-size}
 :flying_disc:
 
 </div>
