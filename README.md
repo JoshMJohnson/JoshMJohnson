@@ -19,7 +19,7 @@
  </tr>
 </table>
 
-<span>:flying_disc:</span>
+<span style='font-size:2em;'>:flying_disc:</span>
 
 </div>
 
