@@ -1,8 +1,10 @@
 <h1 align='center'>Welcome To My GitHub Account!</h1>
 
 <div align='center'>
+
+<p align='right'>this is an into temp data</p>
  
-<table border='10'>
+<table border='10' align='left'>
  <tr>
     <th>Connect With Me</th>
  </tr>
