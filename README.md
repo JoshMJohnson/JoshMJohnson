@@ -21,7 +21,7 @@
 
 <table>
  <tr>
-  <th colspan='2' background='#f00'>Demonstrated Skills</th>
+  <th colspan='2' color='#f00'>Demonstrated Skills</th>
  </tr>
  <tr>
   <th>Language</th>
