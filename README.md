@@ -19,7 +19,7 @@
   <td>:telephone_receiver: (763) 600-4793 :telephone_receiver:</td>
  </tr>
  <tr>
-  <td>&nbsp;<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn logo" width="15" height="15" />&nbsp;<a src='https://www.linkedin.com/in/josh-johnson/'>LinkedIn Profile</a> <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn logo" width="15" height="15" /></td>
+  <td>&nbsp;<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn logo" width="15" height="15" />&nbsp;<a href='https://www.linkedin.com/in/josh-johnson/'>LinkedIn Profile</a> <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn logo" width="15" height="15" /></td>
  </tr>
 </table>
 
