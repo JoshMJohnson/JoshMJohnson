@@ -10,7 +10,7 @@
     <td>:email: &nbsp;joshjohns21dev@gmail.com :email:</td>
  </tr>
  <tr>
-  <td>:telephone_receiver: (763) 600-4793 :telephone_receiver:</td>
+  <td align='center'>:telephone_receiver: (763) 600-4793 :telephone_receiver:</td>
  </tr>
  <tr>
   <td>&nbsp;<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn logo" width="15" height="15" />&nbsp;<a href='https://www.linkedin.com/in/josh-johnson/'>LinkedIn Profile</a> <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn logo" width="15" height="15" /></td>
