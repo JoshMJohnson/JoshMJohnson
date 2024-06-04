@@ -4,7 +4,7 @@
  
 <table border='10'>
  <tr>
-    <th><b style="font-size:30px">Connect With Me</b></th>
+    <th>Connect With Me</th>
  </tr>
  <tr>
     <td>:email: &nbsp;joshjohns21dev@gmail.com :email:</td>
