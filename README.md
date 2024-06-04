@@ -6,7 +6,7 @@
 
 <div align='center'>
  
-<table cellspacing="0" cellpadding="0">
+<table border='-1'>
  <tr>
     <th><b style="font-size:30px">Title</b></th>
     <th><b style="font-size:30px">Title 2</b></th>
