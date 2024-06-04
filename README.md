@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-<p style="display:inline">this is an into temp data</p>
+<p>I am a Software Engineer with a BS degree in Computer Science minoring in Mathematics from the University of Wisconsin - La Crosse</p>
  
 <table border='10'>
  <tr>
