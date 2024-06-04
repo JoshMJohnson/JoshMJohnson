@@ -4,7 +4,7 @@
 
 <p>I am a Software Engineer with a BS degree in Computer Science minoring in Mathematics from the University of Wisconsin - La Crosse. I am also a solo developer for the Google Play Store account Josh Johnson Hub.</p>
  
-<table  border='10'>
+<table border='10'>
  <tr>
     <th>Connect With Me</th>
  </tr>
@@ -21,7 +21,7 @@
 
 <table>
  <tr>
-  <th colspan='2'>Demonstrated Skills</th>
+  <th colspan='2' backgroundcolor='#fff'>Demonstrated Skills</th>
  </tr>
  <tr>
   <th>Language</th>
