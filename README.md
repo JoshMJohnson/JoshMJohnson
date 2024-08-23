@@ -17,7 +17,13 @@
  <tr>
   <td align='center'>&nbsp;<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn logo" width="15" height="15" />&nbsp;<a href='https://www.linkedin.com/in/josh-johnson/'>LinkedIn Profile</a> <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn logo" width="15" height="15" /></td>
  </tr>
+ <tr>
+  <td align='center'>&nbsp;<image src="https://cdn.freebiesupply.com/logos/large/2x/google-play-store-logo-png-transparent.png" alt="Google Play Store logo" width="15" height="15" />&nbsp;<a href='https://play.google.com/store/apps/dev?id=7288035991595825017'>Developer Account</a> <image src="https://cdn.freebiesupply.com/logos/large/2x/google-play-store-logo-png-transparent.png" alt="Google Play Store logo" width="15" height="15" /></td>
+ </tr>
 </table>
+
+
+https://play.google.com/store/apps/dev?id=7288035991595825017
 
 <image src='https://github.com/JoshMJohnson/Portfolio-Josh-Johnson/blob/main/Portfolio_Assets/project_timeline.png' />
 
