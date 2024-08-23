@@ -18,7 +18,7 @@
   <td align='center'>&nbsp;<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn logo" width="15" height="15" />&nbsp;<a href='https://www.linkedin.com/in/josh-johnson/'>LinkedIn Profile</a> <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn logo" width="15" height="15" /></td>
  </tr>
  <tr>
-  <td align='center'>&nbsp;<image src="https://e7.pngegg.com/pngimages/52/715/png-clipart-google-play-logo-google-play-computer-icons-app-store-google-text-logo.png" alt="Google Play Store logo" width="50" height="15" />&nbsp;<a href='https://play.google.com/store/apps/dev?id=7288035991595825017'>Developer Account</a> <image src="https://e7.pngegg.com/pngimages/52/715/png-clipart-google-play-logo-google-play-computer-icons-app-store-google-text-logo.png" alt="Google Play Store logo" width="50" height="15" /></td>
+  <td align='center'>&nbsp;<image src="https://static.vecteezy.com/system/resources/previews/022/484/511/non_2x/google-play-store-icon-logo-symbol-free-png.png" alt="Google Play Store logo" width="15" height="15" />&nbsp;<a href='https://play.google.com/store/apps/dev?id=7288035991595825017'>Developer Account</a> <image src="https://static.vecteezy.com/system/resources/previews/022/484/511/non_2x/google-play-store-icon-logo-symbol-free-png.png" alt="Google Play Store logo" width="15" height="15" /></td>
  </tr>
 </table>
 
