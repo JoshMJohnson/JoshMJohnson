@@ -15,7 +15,7 @@
   <td align='center'>:telephone_receiver: (763) 600-4793 :telephone_receiver:</td>
  </tr>
  <tr>
-  <td align='center'>&nbsp;<image src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn logo" width="30" height="30" />&nbsp;<a href='https://www.linkedin.com/in/josh-johnson/'>LinkedIn Profile</a> <image src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn logo" width="30" height="30" /></td>
+  <td align='center'>&nbsp;<image src="https://images.icon-icons.com/2429/PNG/512/linkedin_logo_icon_147268.png" alt="LinkedIn logo" width="30" height="30" />&nbsp;<a href='https://www.linkedin.com/in/josh-johnson/'>LinkedIn Profile</a> <image src="https://images.icon-icons.com/2429/PNG/512/linkedin_logo_icon_147268.png" alt="LinkedIn logo" width="30" height="30" /></td>
  </tr>
  <tr>
   <td align='center'>&nbsp;<image src="https://static.vecteezy.com/system/resources/previews/022/484/511/non_2x/google-play-store-icon-logo-symbol-free-png.png" alt="Google Play Store logo" width="15" height="15" />&nbsp;<a href='https://play.google.com/store/apps/dev?id=7288035991595825017'>Developer Account</a> <image src="https://static.vecteezy.com/system/resources/previews/022/484/511/non_2x/google-play-store-icon-logo-symbol-free-png.png" alt="Google Play Store logo" width="15" height="15" /></td>
