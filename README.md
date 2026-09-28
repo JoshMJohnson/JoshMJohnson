@@ -2,7 +2,15 @@
 
 <div align='center'>
 
-<p>I am a Software Engineer with a BS degree in Computer Science and a minor in Mathematics from the University of Wisconsin - La Crosse. I am also a solo developer for the Google Play Store account Josh Johnson Hub.</p>
+<p>I'm a passionate solo Android developer and founder of Josh Johnson Hub, my independent Google Play developer account. With a strong focus on creating clean, intuitive, and high-quality mobile applications, I build tools that make everyday life simpler and more organized.
+
+From concept to launch, I handle every aspect of app development - designing smooth user experiences, writing efficient code, and delivering updates that users genuinely appreciate. My apps, including Alarm Hub and List Maker, are crafted with attention to detail and a commitment to reliability.
+
+What drives me is the joy of solving real problems through technology. Whether it's building better productivity tools or creating simple yet powerful utilities, I'm dedicated to developing apps that users love to keep on their devices.
+
+Currently focused on expanding the Josh Johnson Hub portfolio with new and improved Android applications. Always learning, iterating, and striving to deliver the best possible experience on the Google Play Store.
+
+Open to collaboration, feedback, and connecting with other developers, designers, and tech enthusiasts.</p>
  
 <table border='10'>
  <tr>
